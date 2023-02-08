@@ -1,1 +1,1 @@
-3. To determine the wavelength of He-Ne laser light using single slit diffraction.
+ To determine the wavelength of He-Ne laser light using single slit diffraction.
