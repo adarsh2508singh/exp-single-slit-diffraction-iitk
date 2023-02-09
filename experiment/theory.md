@@ -17,7 +17,7 @@ If the path difference between two waves is (m + 1/2) λ , the interference betw
   Δd=m λ0/2 <br>
   
   
-  ![image](https://user-images.githubusercontent.com/72906969/217596130-b528df57-20b1-4679-aa34-062578952453.png)
+<img src="images/Screenshot 2023-02-09 145810.png">
 </p>
 
 <h3> Measurement of wavelength:</h4>
