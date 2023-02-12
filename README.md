@@ -19,6 +19,7 @@ This experiment is concern about the process from which the wavelength of He-Ne 
 
 SrNo | Name | Faculty or Student | Department| Institute | Email id
 :--|:--|:--|:--|:--|:--|
-1 | Adarsh Singh | Student| Information Technology | Rajkiya Engineering College Banda |adarshsingh2508@gmail.com
-2 | Dr. Ashutosh Tiwari| Faculty | Applied Science and Humanities  | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
+1 | Dr. Ashutosh Tiwari| Faculty | Applied Science and Humanities  | Rajkiya Engineering College Banda | ashutosh.tiwari@recbanda.ac.in
+2 | Adarsh Singh | Student| Information Technology | Rajkiya Engineering College Banda |adarshsingh2508@gmail.com
+
 
