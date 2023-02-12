@@ -1,4 +1,3 @@
-### Procedure
 <h4> To find the wavelength of the laser source </h4>
   <ul>
   <li>The laser beam must strike at the center of the movable mirror and should be reflected directly back into the laser aperture.</li>
