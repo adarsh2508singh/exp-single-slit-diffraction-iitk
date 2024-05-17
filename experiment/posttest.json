@@ -35,5 +35,39 @@
       "correctAnswer": "a",
       "difficulty": "medium"
     }
+     {
+      "question": "What is the purpose of conducting a single-slit experiment to determine the wavelength of HeNe laser light?",
+      "answers": {
+        "a": "To measure the intensity of the laser light
+        "b": " To create interference patterns",
+        "c": "To measure the angle of incidence",
+        "d": "To diffract the laser light into a spectrum","
+      },
+      "explanations": {
+        "a": " Explanation 2",
+        "b": "To create interference patterns - In a single-slit experiment, the laser light passing through the narrow slit creates interference patterns, allowing for the determination of the laser's wavelength.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "medium"
+    }
+    {
+      "question": "Which parameter primarily affects the width of the central maximum in the diffraction pattern obtained from a single slit?",
+      "answers": {
+        "a": "The width of the slit",
+        "b": "  The distance to the screen",
+        "c": "The wavelength of the laser light",
+        "d": " The laser intensity",
+      },
+      "explanations": {
+        "a": " The width of the slit - The width of the central maximum in the diffraction pattern is primarily influenced by the width of the slit. A narrower slit results in a wider central maximum, and vice versa.",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "medium"
+    },
   ]
 }
