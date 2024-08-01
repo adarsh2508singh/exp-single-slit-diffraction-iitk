@@ -7,7 +7,7 @@
         "a": "No fringe pattern",
         "b": " Fringes are closer",
         "c": "Fringes are a great distance",
-        "d": " 	Indistinguishable pattern"
+        "d": " Indistinguishable pattern"
       },
       "explanations": {
         "a": "If the surface between optical flat and work surface are perfectly wrung together then there will be no air gap between the surfaces and the fringe pattern will be not observable.  <a href='www.google.com'>here</a>",
@@ -34,7 +34,7 @@
       },
       "correctAnswer": "a",
       "difficulty": "medium"
-    }
+    },
      {
       "question": "What is the purpose of conducting a single-slit experiment to determine the wavelength of HeNe laser light?",
       "answers": {
@@ -51,7 +51,7 @@
       },
       "correctAnswer": "b",
       "difficulty": "medium"
-    }
+    },
     {
       "question": "Which parameter primarily affects the width of the central maximum in the diffraction pattern obtained from a single slit?",
       "answers": {
@@ -62,6 +62,23 @@
       },
       "explanations": {
         "a": " The width of the slit - The width of the central maximum in the diffraction pattern is primarily influenced by the width of the slit. A narrower slit results in a wider central maximum, and vice versa.",
+        "b": "Explanation 2",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "a",
+      "difficulty": "medium"
+    },
+     {
+      "question": "In a single-slit diffraction pattern, why do minima occur?",
+      "answers": {
+        "a": "They are due to the complete cancellation of light waves",
+        "b": "They are due to the partial absorption of light by the slit",
+        "c": "They occur because of the overlapping of reflected light waves",
+        "d": " They are due to the scattering of light waves at different angles",
+      },
+      "explanations": {
+        "a": " Minima occur due to the complete destructive interference of light waves from different parts of the slit. This results in points of minimum intensity.",
         "b": "Explanation 2",
         "c": "Explanation 2",
         "d": "Explanation 2"
