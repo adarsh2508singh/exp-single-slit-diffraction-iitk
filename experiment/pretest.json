@@ -10,7 +10,7 @@
         "d": "Fermi Principle"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1 ",
         "b": "Superposition principle is the basic principle used in the interference of light. When the incoming light waves superimpose constructively, the intensity increases while when they add destructively, it decreases.",
         "c": "Explanation 2",
         "d": "Explanation 2"
@@ -27,7 +27,7 @@
         "d": "One-Fourth"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
+        "a": "Explanation 1",
         "b": "Explanation 2",
         "c": "As we know, I ∝ A2. Thus, as the two waves add constructively, their amplitude becomes twice and hence the intensity becomes four times.",
         "d": "Explanation 2"
@@ -63,6 +63,23 @@
       "explanations": {
         "a": "Explanation 1 ",
         "b": "The width of the slit - The width of the central maximum in the diffraction pattern is primarily determined by the width of the slit. A narrower slit produces a wider central maximum, while a wider slit produces a narrower central maximum.",
+        "c": "Explanation 2",
+        "d": "Explanation 2"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+     {
+      "question": "What is the primary cause of the diffraction pattern observed in a single-slit experiment with a He-Ne laser??"
+      "answers": {
+        "a": " The interference of light waves from different sources",
+        "b": "The bending of light waves around the edges of the slit",
+        "c": "The reflection of light waves from the edges of the slit",
+        "d": " The absorption of light waves by the slit material",
+      },
+      "explanations": {
+        "a": "Explanation 1 ",
+        "b": "The diffraction pattern is caused by the bending and spreading of light waves as they pass through the narrow slit and encounter the edges.",
         "c": "Explanation 2",
         "d": "Explanation 2"
       },
